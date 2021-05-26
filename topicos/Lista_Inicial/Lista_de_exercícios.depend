@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617067315 source:c:\users\jvgpl\onedrive\documentos\faculdade\lista_de_exercícios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

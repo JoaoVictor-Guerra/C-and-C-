@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622041314 source:c:\users\jvgpl\onedrive\documentos\faculdade\05 - exercícios biblioteca\26\mb_joaovictor.c
+
+1622041641 source:c:\users\jvgpl\onedrive\documentos\faculdade\05 - exercícios biblioteca\26\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"MB_JoaoVictor.h"
+
+1622040346 c:\users\jvgpl\onedrive\documentos\faculdade\05 - exercícios biblioteca\26\mb_joaovictor.h
+

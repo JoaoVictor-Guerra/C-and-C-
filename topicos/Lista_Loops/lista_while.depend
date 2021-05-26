@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618242325 source:c:\users\jvgpl\onedrive\documentos\faculdade\lista_while\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
