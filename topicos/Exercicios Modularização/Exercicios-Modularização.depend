@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623286391 source:c:\users\jvgpl\onedrive\documentos\faculdade\exercicios-modularização\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

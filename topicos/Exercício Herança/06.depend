@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625187858 source:c:\users\jvgpl\onedrive\documentos\faculdade\06\heranca - 30\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+

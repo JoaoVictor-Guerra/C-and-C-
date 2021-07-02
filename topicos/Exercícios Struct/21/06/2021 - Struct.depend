@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624455181 source:c:\users\jvgpl\onedrive\documentos\faculdade\2021 - struct\21\06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
