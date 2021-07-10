@@ -1,2 +1,3 @@
-# Exercicios-Em-C
- Exercícios em C, AED
+# C and C++ exercises!
+
+This is a compilation of some algorithms I made while in University!
